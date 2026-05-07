@@ -56,10 +56,9 @@
 | **15주차** | :trophy: Deep Learning | **기말고사** & 최신 구조(VGG, ResNet 등) 구현 | [ ] |
 
 ### :calendar: 일정 변경 사항
-| :--- | :--- | :--- | :---: |
-| **5/10일** | :rocket: Online | 원격수업 | [ ] |
-| **6/11일** | :rocket: Online | 원격수업 | [ ] |
-| **6/18일** | :rocket: Test | 기말고사 | [ ] |
+| **5/10일** | :rocket: Online | 원격수업 | [ ] |\n
+| **6/11일** | :rocket: Online | 원격수업 | [ ] |\n
+| **6/18일** | :rocket: Test | 기말고사 | [ ] |\n
 
 ---
 
