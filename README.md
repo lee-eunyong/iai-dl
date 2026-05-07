@@ -55,6 +55,12 @@
 | **14주차** | :frame_with_picture: CNN II | CNN을 이용한 **MNIST 응용 인식** | [ ] |
 | **15주차** | :trophy: Deep Learning | **기말고사** & 최신 구조(VGG, ResNet 등) 구현 | [ ] |
 
+### :calendar: 일정 변경 사항
+| :--- | :--- | :--- | :---: |
+| **5/10일** | :rocket: Online | 원격수업 | [ ] |
+| **6/11일** | :rocket: Online | 원격수업 | [ ] |
+| **6/18일** | :rocket: Test | 기말고사 | [ ] |
+
 ---
 
 ### :file_folder: 폴더 구조 예시
