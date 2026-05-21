@@ -52,8 +52,8 @@
 | **11주차** | :loop: 오차역전파법 II | 다층 회로망에서의 오차역전파 구현 실습 | [ ] |
 | **12주차** | :hammer: 학습 관련 기법 | 딥러닝 매개변수 최적화 및 학습법 실습 | [ ] |
 | **13주차** | :eye: CNN I | 합성곱 신경망(CNN) 구현 및 영상 실습 | [ ] |
-| **14주차** | :frame_with_picture: CNN II | CNN을 이용한 **MNIST 응용 인식** | [ ] |
-| **15주차** | :trophy: Deep Learning | **기말고사** & 최신 구조(VGG, ResNet 등) 구현 | [ ] |
+| **14주차** | :frame_with_picture: CNN II | CNN을 이용한 **MNIST 응용 인식** | [ ５／２８] |
+| **15주차** | :trophy: Deep Learning | **기말고사** & 최신 구조(VGG, ResNet 등) 구현 | [６／１８ ] |
 
 ### :calendar: 일정 변경 사항
 | **5/10일** | 📷: Online | 원격수업 :
